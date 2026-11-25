@@ -403,7 +403,7 @@ Available Actions:
 
 ## IMPORTANT INFORMATION
 
-- Designed specifically for Blade Ball.
+- Designed from Rise.
 - Some features require specific executor functions.
 - Some optional features may be unavailable depending on executor support.
 - FFlag compatibility depends on the Roblox client build.
@@ -411,4 +411,4 @@ Available Actions:
 - Cosmetic unlock and skin manipulation features are high-ban-risk.
 - No anti-ban or undetected guarantee.
 
-**Silog X — Your All-in-One Blade Ball Hub.**
+**Silog X — Rise Remake.**
