@@ -2,6 +2,7 @@
 -- I made a Keyless One 
 -- Silog X: personal fork of Rise v2.1.9.
 -- Original source reference: https://github.com/joshhhie/rise
+-- Read this to know about this script: https://github.com/Xscriptsnet/BladeBall/
 -- This is not wholly original code.
 -- This Script is a remake of Rise, expect some bugs
 -- ==================== SILOG X BRANDING ====================
