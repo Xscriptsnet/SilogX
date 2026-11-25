@@ -1,7 +1,7 @@
 # SILOG X
 ### Blade Ball Script Hub | Feature Showcase
 
-**Silog X** is a multi-feature Blade Ball script hub featuring combat automation, customizable parry curves, player targeting, visual enhancements, cosmetic customization, movement controls, performance optimization, and server utilities.
+**Silog X** is a Rise Remake since Rise has become key system now i remade a keyless one here are some of the features that are currently working 
 
 ---
 
